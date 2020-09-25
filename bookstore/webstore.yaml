@@ -1,9 +1,0 @@
-kind: WebStore
-apiVersion: marketplace.com/v1
-metadata:
-  name: books-r-us
-  namespace: bookstore
-spec:
-  product: "books"
-  employees: 5
-
